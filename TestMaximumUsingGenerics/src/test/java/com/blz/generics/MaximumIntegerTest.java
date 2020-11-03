@@ -9,7 +9,7 @@ public class MaximumIntegerTest {
 
 	@BeforeClass
 	public static void maxIntegerObj() {
-		m = new MaximumInteger();
+		m = new MaximumInteger(null, null, null);
 	}
 
 	//TestCase 1.1
